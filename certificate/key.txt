@@ -1,0 +1,3 @@
+key store pass - CityCode@1%4
+key alias - expirytrackerkey
+kay pass - CityCode@1%4

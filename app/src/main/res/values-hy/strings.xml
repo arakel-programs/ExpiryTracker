@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">ExpiryTracker</string>
+
+    <string name="tab_active">Ակտիվ</string>
+    <string name="tab_history">Պատմություն</string>
+
+    <string name="search_product">Որոնել ապրանք</string>
+    <string name="clear">Մաքրել</string>
+
+    <string name="filter">Ֆիլտր</string>
+    <string name="filter_all">Բոլորը</string>
+    <string name="filter_expired">Ժամկետանց</string>
+    <string name="filter_today">Այսօր</string>
+    <string name="filter_next_2">Հաջորդ 2 օրը</string>
+    <string name="filter_next_7">Հաջորդ 7 օրը</string>
+
+    <string name="product_name">Ապրանքի անուն</string>
+    <string name="quantity">Քանակ</string>
+    <string name="expiration_days">Ժամկետ (օր)</string>
+    <string name="use_days_to_date">Օրեր → Ամսաթիվ</string>
+    <string name="pick_exp_date">Ընտրել վերջնաժամկետ</string>
+    <string name="expiration_date">Վերջնաժամկետ՝</string>
+    <string name="pick_batch_date">Ընտրել խմբաքանակի օր</string>
+    <string name="batch_date">Խմբաքանակի օր՝</string>
+    <string name="add_product_schedule">Ավելացնել + հիշեցումներ</string>
+
+    <string name="sold">Վաճառվեց</string>
+    <string name="removed">Դուրս գրվեց</string>
+    <string name="adjust">Փոխել</string>
+    <string name="restore">Վերականգնել...</string>
+    <string name="delete">Ջնջել</string>
+
+    <string name="view">Բացել</string>
+    <string name="hide">Փակել</string>
+    <string name="total_qty">Ընդամենը՝</string>
+    <string name="qty">Քանակ՝</string>
+
+    <string name="status_active">ԱԿՏԻՎ</string>
+    <string name="status_sold_out">ՍՊԱՌՎԱԾ</string>
+    <string name="status_removed">ԴՈՒՐՍ ԳՐՎԱԾ</string>
+
+    <string name="dialog_cancel">Չեղարկել</string>
+
+    <string name="expires_today">Կավարտվի այսօր</string>
+    <string name="expired">Ժամկետանց</string>
+
+    <string name="batch_label">Խմբաքանակ:</string>
+    <string name="expires_label">Վավեր է մինչև՝</string>
+
+    <string name="dialog_apply">Կիրառել</string>
+    <string name="dialog_set">Սահմանել</string>
+
+    <string name="dialog_sold_title">Վաճառված քանակ</string>
+    <string name="dialog_sold_label">Քանի՞ հատ է վաճառվել։</string>
+
+    <string name="dialog_removed_title">Հանված (որակ)</string>
+    <string name="dialog_removed_label">Քանի՞ հատ է հանվել։</string>
+
+    <string name="dialog_adjust_title">Փոխել քանակը</string>
+    <string name="dialog_adjust_label">Մուտքագրեք նոր քանակը</string>
+
+    <string name="dialog_restore_title">Վերականգնել ապրանքը</string>
+    <string name="dialog_restore_label">Սահմանեք վերականգնվող քանակը</string>
+    <string name="dialog_restore_btn">Վերականգնել</string>
+
+</resources>

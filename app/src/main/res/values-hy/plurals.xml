@@ -1,0 +1,13 @@
+<resources>
+
+    <plurals name="expires_in_days">
+        <item quantity="one">Կավարտվի %d օրից</item>
+        <item quantity="other">Կավարտվի %d օրից</item>
+    </plurals>
+
+    <plurals name="expired_days_ago">
+        <item quantity="one">Ժամկետանց է %d օր առաջ</item>
+        <item quantity="other">Ժամկետանց է %d օր առաջ</item>
+    </plurals>
+
+</resources>

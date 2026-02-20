@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">ExpiryTracker</string>
+
+    <string name="tab_active">Активные</string>
+    <string name="tab_history">История</string>
+
+    <string name="search_product">Поиск товара</string>
+    <string name="clear">Очистить</string>
+
+    <string name="filter">Фильтр</string>
+    <string name="filter_all">Все</string>
+    <string name="filter_expired">Просрочено</string>
+    <string name="filter_today">Сегодня</string>
+    <string name="filter_next_2">Ближайшие 2 дня</string>
+    <string name="filter_next_7">Ближайшие 7 дней</string>
+
+    <string name="product_name">Название товара</string>
+    <string name="quantity">Количество</string>
+    <string name="expiration_days">Срок (дней)</string>
+    <string name="use_days_to_date">Дни → дата</string>
+    <string name="pick_exp_date">Выбрать дату</string>
+    <string name="expiration_date">Дата окончания:</string>
+    <string name="pick_batch_date">Выбрать дату партии</string>
+    <string name="batch_date">Дата партии:</string>
+    <string name="add_product_schedule">Добавить + уведомления</string>
+
+    <string name="sold">Продано</string>
+    <string name="removed">Списано</string>
+    <string name="adjust">Изменить</string>
+    <string name="restore">Восстановить...</string>
+    <string name="delete">Удалить</string>
+
+    <string name="view">Открыть</string>
+    <string name="hide">Скрыть</string>
+    <string name="total_qty">Всего:</string>
+    <string name="qty">Кол-во:</string>
+
+    <string name="status_active">АКТИВНО</string>
+    <string name="status_sold_out">РАСПРОДАНО</string>
+    <string name="status_removed">СПИСАНО</string>
+
+    <string name="dialog_cancel">Отмена</string>
+
+    <string name="expires_today">Истекает сегодня</string>
+    <string name="expired">Просрочено</string>
+
+    <string name="batch_label">Партия:</string>
+    <string name="expires_label">Срок годности до:</string>
+
+    <string name="dialog_apply">Применить</string>
+    <string name="dialog_set">Установить</string>
+
+    <string name="dialog_sold_title">Продано</string>
+    <string name="dialog_sold_label">Сколько продано?</string>
+
+    <string name="dialog_removed_title">Списано (качество)</string>
+    <string name="dialog_removed_label">Сколько списано?</string>
+
+    <string name="dialog_adjust_title">Изменить количество</string>
+    <string name="dialog_adjust_label">Введите новое количество</string>
+
+    <string name="dialog_restore_title">Восстановить товар</string>
+    <string name="dialog_restore_label">Укажите количество для восстановления</string>
+    <string name="dialog_restore_btn">Восстановить</string>
+
+</resources>

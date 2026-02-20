@@ -1,0 +1,13 @@
+<resources>
+
+    <plurals name="expires_in_days">
+        <item quantity="one">Expires in %d day</item>
+        <item quantity="other">Expires in %d days</item>
+    </plurals>
+
+    <plurals name="expired_days_ago">
+        <item quantity="one">Expired %d day ago</item>
+        <item quantity="other">Expired %d days ago</item>
+    </plurals>
+
+</resources>
